@@ -1,0 +1,8 @@
+Slider@0.0.1 /Volumes/UBUNTU 16_0/Slider
+├─┬ @ionic/app-scripts@2.1.3
+│ └─┬ node-sass@4.5.3
+│   └─┬ request@2.81.0
+│     └─┬ har-validator@4.2.1
+│       └── ajv@4.11.8 
+└── ajv@5.2.2 
+

@@ -1,3 +1,22 @@
 page-home {
+    .slick-slide {
+        opacity: 0.6;
+        transform: scale(0.8);
+        transition: transform 1s;
+    }
+    .slick-current {
+        opacity: 1 !important;
+        margin-bottom: 20px;
+        transform: scale(1.2);
+        transition: transform 1s;
+    }
+
+    .slick-active
+     {
+        opacity: 1 !important;
+        margin-bottom: 20px;
+        transform: scale(1.2);
+        transition: transform 1s;
+    }
 
 }
