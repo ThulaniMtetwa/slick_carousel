@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
@@ -24,3 +25,20 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+=======
+
+#Running Project
+npm install
+ionic serve
+
+#installing dependencies
+npm install jquery --save
+npm install slick-carousel --save
+
+#Adding dependencies
+import * as $ from "jquery";
+import 'slick-carousel/slick/slick';
+
+# slick_carousel
+This project demonstrates working with slick carousel and getting the waterfall effect. This was inspired by @gitvani https://github.com/gitvani 
+>>>>>>> bcf538bef2953d314ba5aee0b847086367b11f6b
